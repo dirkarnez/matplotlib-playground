@@ -3,11 +3,11 @@
 
 set DOWNLOADS_DIR=%USERPROFILE%\Downloads
 
-set PREFIX=D:\Softwares
-@REM set PREFIX=%DOWNLOADS_DIR%
+@REM set PREFIX=D:\Softwares
+set PREFIX=%DOWNLOADS_DIR%
 
 
-set PYTHON_DIR=%PREFIX%\python-3.10.8-amd64-portable
+set PYTHON_DIR=%PREFIX%\python-3.13.9-amd64-portable
 set PATH=%PYTHON_DIR%;%PYTHON_DIR%\Scripts
 
 python -m pip install --upgrade pip
