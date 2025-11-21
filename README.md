@@ -8,3 +8,5 @@ matplotlib-playground
 ### Good samples
 - Math-ready
   - [Infinite lines — Matplotlib 3.10.7 documentation](https://matplotlib.org/stable/gallery/lines_bars_and_markers/axline.html#sphx-glr-gallery-lines-bars-and-markers-axline-py)
+- Econ-ready
+  - [Infinite lines — Matplotlib 3.10.7 documentation](https://matplotlib.org/stable/gallery/lines_bars_and_markers/axline.html#sphx-glr-gallery-lines-bars-and-markers-axline-py)
